@@ -1,5 +1,11 @@
-## Hi there 👋
 
+# Hi there! 👋 I'm Sami
+
+🚀 A highly skilled frontend developer with 2.5 years of experience in creating dynamic and responsive web applications using **React**, **Next.js**, and **JavaScript**.
+
+💡 Passionate about enhancing user engagement and satisfaction through pixel-perfect UIs and innovative solutions.
+
+Check out my portfolio site: [sheikhsami.vercel.app](https://sheikhsami.vercel.app/)
 <!--
 **sami-011bq/sami-011bq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
